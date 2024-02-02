@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "name": "John Wolf",
+      "id": 4
+    },
+    {
+      "name": "Roosevelt Runolfsdottir",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Blaze of Glory",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "Band On the Run",
+      "id": 10
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67223",
+      "id": 3
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33096",
+      "id": 4
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42507",
+      "id": 5
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93552",
+      "id": 6
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60225",
+      "id": 8
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76364",
+      "id": 10
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8341",
+      "id": 11
+    }
+  ]
+}
